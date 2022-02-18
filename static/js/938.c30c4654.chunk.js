@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcontacts_diary=self.webpackChunkcontacts_diary||[]).push([[938],{938:function(e,a,c){c.r(a);c(791);var s=c(504),r=c(184);a.default=function(){return(0,r.jsxs)("div",{className:"header",children:[(0,r.jsxs)("div",{className:"header-link",children:[(0,r.jsx)(s.rU,{to:"/",children:"HomePage"}),(0,r.jsx)(s.rU,{to:"/addContact",children:"Add Contact"})]}),(0,r.jsx)("div",{className:"header-search",children:(0,r.jsx)("input",{type:"search",placeholder:"Search by name..."})})]})}}}]);
+//# sourceMappingURL=938.c30c4654.chunk.js.map
