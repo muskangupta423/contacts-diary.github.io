@@ -10,7 +10,7 @@ function RouteContainer() {
         <Suspense fallback={<p>Loading...</p>}>
             <Header/>
             <Routes>
-                <Route path='/' element={<Homepage/>} />
+                <Route path='/allContacts' element={<Homepage/>} />
                 <Route path='/addContact' element={<AddContact/>} />
                 <Route path='/editContact/:id' element={<EditContact/>} />
             </Routes>
