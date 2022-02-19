@@ -17,7 +17,7 @@ function AddContact() {
             ...details
         }
         dispatch(Actions.addContact(payload));
-        navigate('/allContacts')
+        navigate('/')
     }   
 
     return ( 

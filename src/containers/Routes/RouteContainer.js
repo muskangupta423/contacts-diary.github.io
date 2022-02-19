@@ -7,10 +7,10 @@ const AddContact = React.lazy(() => import('../AddContact/AddContact'));
 
 function RouteContainer() {
     return (
-        <Suspense fallback={<p>Loading...</p>}>
+        <Suspense fallback={<img src={require('../../images/loader.gif')} className='page-loader'/>}>
             <Header/>
             <Routes>
-                <Route path='/allContacts' element={<Homepage/>} />
+                <Route path='/' element={<Homepage/>} />
                 <Route path='/addContact' element={<AddContact/>} />
                 <Route path='/editContact/:id' element={<EditContact/>} />
             </Routes>

@@ -1,5 +1,9 @@
 @import './mixin.scss';
 
+.page-loader {
+    @include width-height(400px, 220px);
+    @include transform-center;
+}
 // header
 .header {
     @include flex-space-between;

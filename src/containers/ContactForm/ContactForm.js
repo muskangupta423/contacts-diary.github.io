@@ -38,8 +38,8 @@ function ContactForm(props) {
                     <label htmlFor='type' className='form-label'>Type: </label>
                     <select id="type" value={details.type} className='form-control' placeholder='Select...' required onChange={detailsChangeHandler}>
                         <option value="">Select</option>
-                        <option value="personal">Personal</option>
-                        <option value="office">Office</option>
+                        <option value="Personal">Personal</option>
+                        <option value="Office">Office</option>
                     </select>
                 </div>
                 <div className='form-group'>

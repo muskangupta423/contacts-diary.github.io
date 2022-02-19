@@ -5,7 +5,7 @@ function Header() {
     return (
         <div className='header'>
             <div className='header-link'>
-                <Link to="/allContacts">HomePage</Link>
+                <Link to="/">HomePage</Link>
                 <Link to="/addContact">Add Contact</Link>
             </div>
             <div className='header-search'>
