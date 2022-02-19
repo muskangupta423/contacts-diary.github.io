@@ -1,7 +1,7 @@
 {
   "name": "contacts-diary",
   "version": "0.1.0",
-  "homepage": "https://muskangupta423.github.io/contacts-diary.github.io/allContacts",
+  "homepage": "https://muskangupta423.github.io/contacts-diary.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
