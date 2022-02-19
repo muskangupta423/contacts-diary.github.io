@@ -1,8 +1,8 @@
 {
   "name": "contacts-diary",
   "version": "0.1.0",
-  "homepage": "https://contacts-diary.github.io/react-gh-pages",
-  "private": true,
+  "homepage": "https://muskangupta423.github.io/contacts-diary.github.io/",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
